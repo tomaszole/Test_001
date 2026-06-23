@@ -1,3 +1,75 @@
+# RAPORT QC MODELU
+
+## PODSUMOWANIE
+
+| Kategoria | Status 
+|-|-|
+| Geometria | ✅ OK |
+| Kolizje | ❌ Błąd |
+
+---
+
+## SZCZEGÓŁY
+
+### Geometria
+- [x] sprawdzono
+- [ ] duplikaty
+
+---
+
+### Kolizje
+> Wykryto konflikty HVAC vs konstrukcja
+>cytat
+>
+>druga linia
+>
+to juz nie jest cytat
+
+# Nagłówek 1
+## Nagłówek 2
+### Nagłówek
+
+
+**pogrubienie**
+
+*kursywa*
+
+***pogrubienie + kursywa***
+
+
+- punkt 1
+- punkt 2
+- punkt 3
+
+
+* punkt gwiazdka
++ punkt plus
+
+
+1. pierwszy
+2. drugi
+3. trzeci
+
+
+- [x] sprawdzono model
+- [ ] do poprawy kolizje
+- [ ] brak danych
+
+
+linia ---
+---
+linie `` 12 `` `````````````````````
+
+
+``
+
+
+
+
+
+
+
+
 # RAPORT QC MODELU REVIT
 
 **Projekt:** Budynek biurowy XYZ  
@@ -9,7 +81,7 @@
 
 ---
 
-## 1. CEL RAPORTU
+## 1. CEL RAPORTU 
 
 Celem niniejszego raportu jest ocena jakości modelu BIM (Revit) pod kątem:
 - zgodności ze standardami BIM,
