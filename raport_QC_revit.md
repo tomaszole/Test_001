@@ -40,7 +40,7 @@ Zakres kontroli obejmował:
 ## 4. PODSUMOWANIE
 
 | Kategoria              | Status      | Uwagi                     |
-|----------------------|------------|--------------------------|
+|----------------------|------------|---|
 | Geometria            | ⚠️ Uwaga   | Drobne błędy             |
 | Nazewnictwo          | ❌ Błędy   | Niezgodności             |
 | Parametry            | ⚠️ Uwaga   | Braki części danych      |
